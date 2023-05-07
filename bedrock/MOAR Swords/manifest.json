@@ -1,13 +1,13 @@
 {
   "format_version": 2,
   "header": {
-    "description": "A cool Minecraft Bedrock mod",
+    "description": "",
     "name": "My Mod",
-    "uuid": "change-me",
+    "uuid": "9dc529c6-eb60-4d2f-846d-9d19e5218c99",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ],
     "min_engine_version": [
       1,
@@ -19,11 +19,11 @@
     {
       "description": "A cool mod",
       "type": "resources",
-      "uuid": "change-me",
+      "uuid": "9dc529c6-eb60-4d2f-846d-9d19e5218c99",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ]
