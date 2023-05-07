@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "description": "A funny mod about the US by Ender",
-    "name": "America Mod V1.3",
-    "uuid": "5efd027f-e51c-4117-b054-29cd0330225b",
+    "description": "A cool Minecraft Bedrock mod",
+    "name": "My Mod",
+    "uuid": "change-me",
     "version": [
       0,
       0,
@@ -17,9 +17,9 @@
   },
   "modules": [
     {
-      "description": "A funny mod about the US by Ender",
+      "description": "A cool mod",
       "type": "resources",
-      "uuid": "0e558b03-938c-4d1c-ad83-47259b114833",
+      "uuid": "change-me",
       "version": [
         0,
         0,
