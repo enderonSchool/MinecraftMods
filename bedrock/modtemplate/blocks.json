@@ -1,0 +1,11 @@
+{
+  "pa:american_flag": {
+    "textures": "pa_american_flag",
+    "sound": "anvil"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}
