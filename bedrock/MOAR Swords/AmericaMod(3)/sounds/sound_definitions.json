@@ -1,0 +1,14 @@
+{
+  "pa_gun_shot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/pa_gun_shot"
+    ]
+  },
+  "mob.pa_warden.idle": {
+    "category": " neutral",
+    "sounds": [
+      "sounds/mob/pa_warden/idle"
+    ]
+  }
+}

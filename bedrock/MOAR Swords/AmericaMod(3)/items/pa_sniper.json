@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:sniper",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:sniper",
+      "minecraft:use_animation": "bow",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

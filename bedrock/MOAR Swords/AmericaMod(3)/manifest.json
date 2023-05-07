@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A funny mod about the US by Ender",
+    "name": "America Mod V1.3",
+    "uuid": "5efd027f-e51c-4117-b054-29cd0330225b",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "A funny mod about the US by Ender",
+      "type": "resources",
+      "uuid": "0e558b03-938c-4d1c-ad83-47259b114833",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

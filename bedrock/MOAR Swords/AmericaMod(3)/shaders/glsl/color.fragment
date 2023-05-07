@@ -1,0 +1,16 @@
+// __multiversion__
+// This signals the loading code to prepend either #version 100 or #version 300 es as apropriate.
+
+#include "fragmentVersionSimple.h"
+
+varying vec4 color;
+const vec3 luminanceWeighting = vec3(0.2125, 0.7154, 0.0721);
+void main()
+{
+    vec3 rgb = color.rgb;
+    float luminance = dot(rgb, luminanceWeighting);
+    vec3 greyScaleColor = vec3(luminance);
+    
+    vec3 colorContrast = vec3((rgb - vec3(0.5)) * 1 + vec3(0.5));
+    gl_FragColor = vec4(mix(greyScaleColor, colorContrast, 1.2), color.a);
+}
